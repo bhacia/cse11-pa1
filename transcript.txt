@@ -1,0 +1,23 @@
+Perimeter output:
+ this.perimeterOfRec1 = 16
+ this.perimeterOfRec2 = 30
+ this.perimeterOfRec3 = 18
+ this.perimeterOfRec4 = 44
+
+Border area output:
+ this.borderArea1 = 26
+ this.borderArea2 = 70
+ this.borderArea3 = 112
+ this.borderArea4 = 77
+
+Converter output:
+ this.CtoK1 = 305
+ this.CtoK2 = 297
+ this.CtoK3 = 299
+ this.CtoK4 = 294
+
+Combiner output:
+ this.heightInches1 = 63
+ this.heightInches2 = 71
+ this.heightInches3 = 74
+ this.heightInches4 = 58
